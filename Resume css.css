@@ -61,5 +61,8 @@ ul li {
 
 }
 #image {
+    padding-left: 0px;
+    border-collapse: collapse;
     text-align: right;
+
 }
