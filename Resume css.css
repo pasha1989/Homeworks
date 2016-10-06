@@ -1,0 +1,62 @@
+TABLE {
+    width: 550px;
+    border: double;
+    border-collapse: collapse;
+    text-align: center;
+}
+th {
+    color: #131dff;
+    background-color: antiquewhite;
+}
+TD, TH {
+    padding: 3px;
+    border: dotted;
+}
+#ЛД {
+    color: lightslategray;
+}
+#weapon {
+    margin: 10px;
+    padding: 10px;
+    background-color: orange;
+
+}
+#weapon2 {
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+    width: 984px;
+    color: black;
+
+}
+#SWAT {
+    margin: 10px;
+    padding: 10px;
+    background-color: #4fff30;
+    width: 984px;
+    color: black;
+}
+#SWAT2 {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffa58b
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #131dff;
+    text-decoration: underline;
+}
+#facebook {
+    display: block;
+    float: left;
+}
+ul li {
+    font-size: larger;
+    color: #44ff20;
+    height: 30px;
+
+}
